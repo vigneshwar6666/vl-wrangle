@@ -1,5 +1,10 @@
 # vl-wrangle
 
+1. My assigned play is "RICHARD 2" from History genre.
+2. Speaker 1: KING  RICHARD II
+3. Speaker 2: HENRY BOLINGBROKE
+
+# Commands I have used to answer the question 
 ## Fetching with Bash.
 curl "http://shakespeare.mit.edu/richardii/full.html" | sed 's/<\/*[^>]*>//g' > R2.txt
 
